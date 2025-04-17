@@ -5,7 +5,7 @@ export const data = LandscapeSchema.make({
   Version: 1,
   Id: 'liveblocks-yjs',
   Name: 'Liveblocks Yjs',
-  Website: 'https://liveblocks.io',
+  Website: 'https://liveblocks.io/sync-datastore/yjs',
   License: 'Proprietary',
   Deployment: ['Hosted'],
   AppTarget: {
